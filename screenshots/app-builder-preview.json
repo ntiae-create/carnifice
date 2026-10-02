@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CARNÍFICE",
+      "hasCanvas": false,
+      "bodyTextLen": 705,
+      "bodyTextHash": "78828eabaacc33df8dcdf9ac6bfa8043a94b54642341dfbf7433b1fa30c4a455",
+      "bodyTextPrefix": "Histórico FORJA DE MANHWA CARNÍFICE Escreva o horror. A forja re",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CARNÍFICE",
+      "hasCanvas": false,
+      "bodyTextLen": 705,
+      "bodyTextHash": "78828eabaacc33df8dcdf9ac6bfa8043a94b54642341dfbf7433b1fa30c4a455",
+      "bodyTextPrefix": "Histórico FORJA DE MANHWA CARNÍFICE Escreva o horror. A forja re",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
